@@ -1,0 +1,1 @@
+# llm-rag-workshop-env
